@@ -4,7 +4,7 @@
 - 🔥 Feel free to text me
 - ⚡ Fun fact: I love to play cricket
 <br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer+%2B+Android+App+Developer;Currently+studying+at+PSTU;BSc.+Engg+in+CSE+)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Competitive+Programmer+%2B+Android+App+Developer;Currently+studying+at+PSTU;BSc.+Engg+in+CSE+)](https://git.io/typing-svg)
 
 <!-- Git Header SVG -->
 <p><img width="40%" align="right" alt="Github Header" src="git-header.svg"/></p>
