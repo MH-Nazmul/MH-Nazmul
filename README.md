@@ -1,11 +1,14 @@
-- 👋 Hi, This is MH Nazmul
+- <h3 align="center">👋 Hi, This is MH Nazmul</h3>
+<br>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Compitetive+Programmer.;App+developer+with+Flutter.;studing+at+PSTU+in+BSc.+Engg+in+CSE" alt="Typing SVG" /></a>
+<br/>
+
 - ❤️ I’m interested in Competitive Programming & Apps developing
 - 🌱 Currently learning Apps developing with Flutter
 - 🔥 Feel free to text me
 - ⚡ Fun fact: I love to play cricket
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Compitetive+Programmer.;App+developer+with+Flutter.;studing+at+PSTU+in+BSc.+Engg+in+CSE" alt="Typing SVG" /></a>
-<br/>
+
 
 <!-- GitHub Stats and Top Languages -->
 <table align="center">
