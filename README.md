@@ -1,27 +1,80 @@
-<h1 align="center">Hi 👋, I'm MH Nazmul</h1>
-<h3 align="center">A passionate Programmer from Bangladesh.</h3>
+- 👋 Hi, This is MH Nazmul
+- ❤️ I’m interested in Competitive Programming & Apps developing
+- 🌱 Currently learning Apps developing with Flutter
+- 🔥 Feel free to text me
+- ⚡ Fun fact: I love to play cricket
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mh-nazmul&label=Profile%20views&color=0e75b6&style=flat" alt="mh-nazmul" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+<br/>
 
-- 💬 Ask me about **C,C++,Java**
+<!-- GitHub Stats and Top Languages -->
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img alt="MH Nazmul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MH-Nazmul&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=FFFFFF&text_color=333333&title_color=1E90FF&icon_color=FF8C00" />
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img alt="MH Nazmul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Nazmul&langs_count=8&count_private=true&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&text_color=333333&title_color=1E90FF&icon_color=FF8C00" />
+            </a>
+        </td>
+    </tr>
+</table>
 
-- 📫 How to reach me **mhnazmul3803@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I think I am Pro**
+<!-- Centered Note Section -->
+<div align="center">
+    <b>Note:</b> Top languages reflect the composition of my public code, not my skill level.
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mh nazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mh nazmul" height="30" width="40" /></a>
-<a href="https://fb.com/mh nazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mh nazmul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mh_nazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mh_nazmul" height="30" width="40" /></a>
+<br/>
+
+<!-- GitHub Streak Stats and Profile Views in a Single Row with Matching Style -->
+<table align="center">
+    <tr>
+        <td>
+            <a href="https://git.io/streak-stats">
+                <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=MH-Nazmul&theme=default&hide_border=true&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&text_color=333333" />
+            </a>
+        </td>
+        <td>
+            <!-- Dynamic Profile Views Counter Styled to Match -->
+            <div align="center">
+                <img src="https://komarev.com/ghpvc/?username=MH-Nazmul&style=flat-square&color=FF8C00&label=Profile%20Views" alt="Profile Views" />
+            </div>
+        </td>
+    </tr>
+</table>
+
+<br/>
+
+<!-- GitHub Trophies Section -->
+## 🏆 GitHub Trophies
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MH-Nazmul&theme=light&no-frame=true&margin-w=15&margin-h=15&row=2&column=5" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## ♾️ Connect with me
+
+<p align="center">
+    <a href="https://t.me/MH Nazmul" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="mailto:mhnazmul3803@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mh-nazmul/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.facebook.com/mhnazmul3808/" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    </a>
+    <a href="https://codeforces.com/profile/MH_Nazmul" target="_blank">
+        <img src="https://img.shields.io/badge/Codeforces-B31F25?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-nazmul&show_icons=true&locale=en&layout=compact" alt="mh-nazmul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mh-nazmul&" alt="mh-nazmul" /></p>
-
