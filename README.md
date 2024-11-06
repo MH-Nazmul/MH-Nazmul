@@ -1,6 +1,6 @@
  <h3 align="center">👋 Hi, This is MH Nazmul</h3>
 <h5 align="center">
-<a  href="https://git.io/typing-svg"><img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Compitetive+Programmer.;App+developer+with+Flutter.;studing+at+PSTU+in+BSc.+Engg+in+CSE" alt="Typing SVG" /></a></h5>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Compitetive+Programmer.;App+developer+with+Flutter.;BSc.+Engg+in+CSE+at+PSTU." alt="Typing SVG" /></a></h5>
 <p><img width="20%" align="right" alt="Github Header" src="coding_logo.png"/></p>
 
 - ❤️ I’m interested in Competitive Programming & Apps developing
