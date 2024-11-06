@@ -7,7 +7,7 @@
 - 🌱 Currently learning Apps developing with Flutter
 - 🔥 Feel free to text me
 - ⚡ Fun fact: I love to play cricket
-<p><img width="20%" align="right" alt="Github Header" src="git-header.svg"/></p>
+<p><img width="20%" align="right" alt="Github Header" src="coding_logo.png"/></p>
 
 <br>
 
