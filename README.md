@@ -12,9 +12,15 @@ Student of B.Sc in CSE at PSTU,Bangladesh 🇧🇩. My primary focus involves bu
 * Architected secure, role-based access control (RBAC) systems with distinct modular permissions for owners, admins, teachers, students, and accountants.
 
 **Competitive Programming Vault** | *C++ & Algorithms*
-* Actively training and consistently competing on Codeforces, currently executing a roadmap to reach the 1400+ "Specialist" tier.
-* Implementing advanced mathematical algorithms, including Number Theory, Genetic Algorithms, Trie structures, and highly optimized Binary Search trees.
-
+* Actively training on Codeforces, currently executing a roadmap to reach the 1600+ "Expert" tier.
+* **Onsite Programming Contests:**
+  
+  * **188th Place** — ICPC 2025 (Team: *PSTU_Tenetune_3_jon*) | [View Standings](https://icpc.global/regionals/finder/Dhaka-2026/standings)
+  * **203rd Place** — ICPC 2024 (Team: *PSTU_ConfusingStatement*) | [View Standings](https://icpc.global/regionals/finder/Dhaka-2025/standings)
+  * **44th Place** — BUET IUPC 2026 (Team: *PSTU_Nilokomol*) | [View Standings](https://toph.co/c/inter-university-buet-cse-fest-2026/standings)
+  * **59th Place** — SUST IUPC 2026 (Team: *PSTU_Teammate_er_dosh*) | [View Standings](https://toph.co/c/sust-inter-university-2026/standings)
+  * **65th Place** — NSU IUPC 2026 (Team: *PSTU_Last_Minute_Registration*) | [View Standings](https://bapsoj.org/contests/nsucec-cybernauts-iupc-2026/standings)
+  * **11th Place** — KRIUPC 2024 (Team: *PSTU_ConfusingStatement*) | [View Standings](https://toph.co/c/khulna-regional-inter-university-kriupc/standings)
 ### LEADERSHIP & DIGITAL BRANDING
 
 **Nabarun-19 Panel & CSE Premier League (CPL)** | *Lead Organizer & Brand Designer*
