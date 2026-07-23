@@ -1,8 +1,8 @@
 
-/*</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Competitive+Programmer.;App+developer+with+Flutter.;BSc.+Engg+in+CSE+at+PSTU." alt="Typing SVG" /></a>
-<p><img width="20%" align="right" alt="Github Header" src="coding_logo.png"/></p>*/
+<!-- </h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Competitive+Programmer.;App+developer+with+Flutter.;BSc.+Engg+in+CSE+at+PSTU." alt="Typing SVG" /></a>
+<p><img width="20%" align="right" alt="Github Header" src="coding_logo.png"/></p> -->
 
-I am a 7th-semester Computer Science and Engineering student from Bangladesh ğŸ‡§ğŸ‡©. My primary focus involves building robust full-stack applications, solving complex algorithmic challenges, and organizing large-scale university events. 
+Student of B.Sc in CSE at PSTU,Bangladesh ğŸ‡§ğŸ‡©. My primary focus involves building robust full-stack applications, solving complex algorithmic challenges, and organizing large-scale university events. 
 
 ### DEVELOPMENT & ALGORITHMIC EXPERIENCES
 
@@ -30,8 +30,7 @@ I am a 7th-semester Computer Science and Engineering student from Bangladesh ğŸ‡
 - âš¡ **Fun Fact:** I love to play cricket both on the field and off the field as a tournament organizer.
 
 <br/>
-
-<!-- GitHub Stats and Top Languages -->
+<!--
 <table align="center">
     <tr>
         <td>
@@ -49,14 +48,12 @@ I am a 7th-semester Computer Science and Engineering student from Bangladesh ğŸ‡
 
 <br/>
 
-<!-- Centered Note Section -->
+
 <div align="center">
     <b>Note:</b> Top languages reflect the composition of my public code, not my skill level.
 </div>
 
 <br/>
-
-<!-- GitHub Streak Stats and Profile Views in a Single Row with Matching Style -->
 <table align="center">
     <tr>
         <td>
@@ -65,17 +62,14 @@ I am a 7th-semester Computer Science and Engineering student from Bangladesh ğŸ‡
             </a>
         </td>
         <td>
-            <!-- Dynamic Profile Views Counter Styled to Match -->
+        
             <div align="center">
                 <img src="https://komarev.com/ghpvc/?username=MH-Nazmul&style=flat-square&color=FF8C00&label=Profile%20Views" alt="Profile Views" />
             </div>
         </td>
     </tr>
-</table>
+</table> 
 
-<br/>
-
-<!-- GitHub Trophies Section -->
 ## ğŸ† GitHub Trophies
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=MH-Nazmul&theme=light&no-frame=true&margin-w=15&margin-h=15&row=2&column=5" alt="GitHub Trophies" />
@@ -102,3 +96,4 @@ I am a 7th-semester Computer Science and Engineering student from Bangladesh ğŸ‡
         <img src="https://img.shields.io/badge/Codeforces-B31F25?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
     </a>
 </p>
+-->
