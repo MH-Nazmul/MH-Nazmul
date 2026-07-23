@@ -1,15 +1,37 @@
- <samp>
+<samp>
     <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">Hi, This is MH Nazmul</h1>
 </samp>
-</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Compitetive+Programmer.;App+developer+with+Flutter.;BSc.+Engg+in+CSE+at+PSTU." alt="Typing SVG" /></a>
+</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Competitive+Programmer.;App+developer+with+Flutter.;BSc.+Engg+in+CSE+at+PSTU." alt="Typing SVG" /></a>
 <p><img width="20%" align="right" alt="Github Header" src="coding_logo.png"/></p>
 
-- ❤️ I’m interested in Competitive Programming & Apps developing
-- 🌱 Currently learning Apps developing with Flutter
-- 🔥 Feel free to text me
-- ⚡ Fun fact: I love to play cricket
+I am a 6th-semester Computer Science and Engineering student from Bangladesh 🇧🇩. My primary focus involves building robust full-stack applications, solving complex algorithmic challenges, and organizing large-scale university events. 
 
+### 💻 DEVELOPMENT & ALGORITHMIC EXPERIENCES
 
+**School Manager** | *Full-Stack Flutter App*
+* 📱 **Live on Play Store:** [Download School Manager Here](https://play.google.com/store/apps/details?id=com.mhtechland.schoolmanager)
+* Developed a comprehensive, scalable application tailored specifically for the Bangladeshi education system.
+* Architected secure, role-based access control (RBAC) systems with distinct modular permissions for owners, admins, teachers, students, and accountants.
+
+**Competitive Programming Vault** | *C++ & Algorithms*
+* Actively training and consistently competing on Codeforces, currently executing a roadmap to reach the 1600+ "Expert" tier.
+* Implementing advanced mathematical algorithms, including Number Theory, Genetic Algorithms, Trie structures, and highly optimized Binary Search trees.
+
+### 🏏 LEADERSHIP & DIGITAL BRANDING
+
+**Nabarun-19 Panel & CSE Premier League (CPL)** | *Lead Organizer & Brand Designer*
+* Serving on the organizing Panel for major university-level sports tournaments, including the CSE Premier League (Cricket) and CSE Football League (CFL).
+* Leading digital branding efforts by designing professional tournament banners, centralized player cards, and promotional videos.
+* Managing digital asset creation, specifically designing custom 9:19 vertical graphics tailored for mobile engagement.
+* Active team member and roster manager for the Nabarun Strikers.
+
+### ⚡ SKILLS & INTERESTS
+
+- 🌱 **Currently Learning:** Cross-platform mobile application development using Flutter.
+- 📈 **Financial Research:** Analyzing the Dhaka Stock Exchange (DSE) and exploring long-term investment strategies.
+- ⚡ **Fun Fact:** I love to play cricket both on the field and off the field as a tournament organizer.
+
+<br/>
 
 <!-- GitHub Stats and Top Languages -->
 <table align="center">
